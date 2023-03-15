@@ -1,0 +1,75 @@
+[{ 
+  "id": 1,
+  "question": "I am waiting for you.",
+  "answer": "Ich warte auf dich."
+},
+{ 
+  "id": 2,
+  "question": "I am waiting for her.",
+  "answer": "Ich warte auf sie."
+},
+{ 
+  "id": 3,
+  "question": "I am waiting for him.",
+  "answer": "Ich warte auf ihn."
+},
+{ 
+  "id": 4,
+  "question": "I am waiting for it.",
+  "answer": "Ich warte darauf."
+},
+{ 
+  "id": 5,
+  "question": "I am waiting for them.",
+  "answer": "Ich warte auf sie."
+},
+{ 
+  "id": 6,
+  "question": "I am waiting for you guys.",
+  "answer": "Ich warte auf euch."
+},
+{ 
+  "id": 7,
+  "question": "You are waiting for her.",
+  "answer": "Du wartest auf sie."
+},
+{ 
+  "id": 8,
+  "question": "You are waiting for him.",
+  "answer": "Du wartest auf ihn."
+},
+{ 
+  "id": 9,
+  "question": "You are waiting for it.",
+  "answer": "Sie warten darauf."
+},
+{ 
+  "id": 10,
+  "question": "You are waiting for them.",
+  "answer": "Du wartest auf sie."
+},
+{ 
+  "id": 11,
+  "question": "Are you waiting for the train? - formal",
+  "answer": "Warten Sie auf den Zug?"
+},
+{ 
+  "id": 12,
+  "question": "What are you guys waiting for?",
+  "answer": "Worauf wartet ihr?"
+},
+{ 
+  "id": 13,
+  "question": "What are you waiting for?",
+  "answer": "Worauf wartest du?"
+},
+{ 
+  "id": 14,
+  "question": "Where have you been?",
+  "answer": "Wo warst du denn?"
+},
+{ 
+  "id": 15,
+  "question": "Thomas and Nora are waiting for you.",
+  "answer": "Thomas und Nora warten auf dich."
+}]

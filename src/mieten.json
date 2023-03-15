@@ -1,0 +1,376 @@
+[{
+    "id": 1,
+    "question": "I am renting from you.",
+    "answer": "Ich miete von dir."
+  },
+  {
+    "id": 2,
+    "question": "I am renting from her.",
+    "answer": "Ich miete von ihr."
+  },
+  {
+    "id": 3,
+    "question": "I am renting from him.",
+    "answer": "Ich miete von ihm."
+  },
+  {
+    "id": 4,
+    "question": "I am renting it.",
+    "answer": "Ich miete es."
+  },
+  {
+    "id": 5,
+    "question": "I am renting from them.",
+    "answer": "Ich miete von ihnen."
+  },
+  {
+    "id": 6,
+    "question": "I am renting from you guys.",
+    "answer": "Ich miete von euch."
+  },
+  {
+    "id": 7,
+    "question": "You are renting from her.",
+    "answer": "Du mietest von ihr."
+  },
+  {
+    "id": 8,
+    "question": "You are renting from him.",
+    "answer": "Du mietest von ihm."
+  },
+  {
+    "id": 9,
+    "question": "You are renting it.",
+    "answer": "Du mietest es."
+  },
+  {
+    "id": 10,
+    "question": "You are renting from them.",
+    "answer": "Du mietest von ihnen."
+  },
+  {
+    "id": 11,
+    "question": "He is renting from you.",
+    "answer": "Er mietet von dir."
+  },
+  {
+    "id": 12,
+    "question": "He is renting from her.",
+    "answer": "Er mietet von ihr."
+  },
+  {
+    "id": 13,
+    "question": "He is renting from him.",
+    "answer": "Er mietet von ihm."
+  },
+  {
+    "id": 14,
+    "question": "He is renting it.",
+    "answer": "Er mietet es."
+  },
+  {
+    "id": 15,
+    "question": "He is renting from them.",
+    "answer": "Er mietet von ihnen."
+  },
+  {
+    "id": 16,
+    "question": "It is renting from you.",
+    "answer": "Es mietet von dir."
+  },
+  {
+    "id": 17,
+    "question": "It is renting from her.",
+    "answer": "Es mietet von ihr."
+  },
+  {
+    "id": 18,
+    "question": "It is renting from him.",
+    "answer": "Es mietet von ihm."
+  },
+  {
+    "id": 19,
+    "question": "It is renting.",
+    "answer": "Es wird vermietet."
+  },
+  {
+    "id": 20,
+    "question": "It is renting from them.",
+    "answer": "Es mietet von ihnen."
+  },
+  {
+    "id": 21,
+    "question": "She is renting from you.",
+    "answer": "Sie mietet von dir."
+  },
+  {
+    "id": 22,
+    "question": "She is renting from her.",
+    "answer": "Sie mietet von ihr."
+  },
+  {
+    "id": 23,
+    "question": "She is renting from him.",
+    "answer": "Sie mietet von ihm."
+  },
+  {
+    "id": 24,
+    "question": "She is renting it.",
+    "answer": "Sie mietet es."
+  }
+,
+  {
+    "id": 25,
+    "question": "She is renting from them.",
+    "answer": "Sie mietet von ihnen."
+  },
+  {
+    "id": 26,
+    "question": "We are renting from you.",
+    "answer": "Wir mieten von Ihnen."
+  },
+  {
+    "id": 27,
+    "question": "We are renting from her.",
+    "answer": "Wir mieten von ihr."
+  },
+  {
+    "id": 28,
+    "question": "We are renting from him.",
+    "answer": "Wir mieten von ihm."
+  },
+  {
+    "id": 29,
+    "question": "We are renting it.",
+    "answer": "Wir mieten es."
+  },
+  {
+    "id": 30,
+    "question": "We are renting from them.",
+    "answer": "Wir mieten von ihnen."
+  },
+  {
+    "id": 31,
+    "question": "They are renting from you.",
+    "answer": "Sie mieten von Ihnen."
+  },
+  {
+    "id": 32,
+    "question": "They are renting from her.",
+    "answer": "Sie mieten von ihr."
+  },
+  {
+    "id": 33,
+    "question": "They are renting from him.",
+    "answer": "Sie mieten von ihm."
+  },
+  {
+    "id": 34,
+    "question": "They are renting it.",
+    "answer": "Sie mieten es."
+  },
+  {
+    "id": 35,
+    "question": "They are renting from them.",
+    "answer": "Sie mieten von ihnen."
+  },
+  {
+    "id": 36,
+    "question": "I am renting for you.",
+    "answer": "Ich miete für Sie."
+  },
+  {
+    "id": 37,
+    "question": "I am renting for her.",
+    "answer": "Ich miete für sie."
+  },
+  {
+    "id": 38,
+    "question": "I am renting for him.",
+    "answer": "Ich miete für ihn."
+  },
+  {
+    "id": 39,
+    "question": "I am renting for it.",
+    "answer": "Ich miete es."
+  },
+  {
+    "id": 40,
+    "question": "I am renting for them.",
+    "answer": "Ich miete für sie."
+  },
+  {
+    "id": 41,
+    "question": "I am renting for you guys.",
+    "answer": "Ich miete für euch."
+  },
+  {
+    "id": 42,
+    "question": "You are renting for her.",
+    "answer": "Du mietest für sie."
+  },
+  {
+    "id": 43,
+    "question": "You are renting for him.",
+    "answer": "Du mietest für ihn."
+  },
+  {
+    "id": 44,
+    "question": "You are renting for it.",
+    "answer": "Du mietest es."
+  },
+  {
+    "id": 45,
+    "question": "You are renting for them.",
+    "answer": "Du mietest für sie."
+  },
+  {
+    "id": 46,
+    "question": "He is renting for you.",
+    "answer": "Er mietet für Sie."
+  },
+  {
+    "id": 47,
+    "question": "He is renting for her.",
+    "answer": "Er mietet für sie."
+  },
+  {
+    "id": 48,
+    "question": "He is renting for him.",
+    "answer": "Er mietet für ihn."
+  },
+  {
+    "id": 49,
+    "question": "He is renting for it.",
+    "answer": "Er mietet es."
+    },
+    
+    {
+    "id": 50,
+    "question": "He is renting for them.",
+    "answer": "Er mietet für sie."
+    },
+    
+    {
+    "id": 51,
+    "question": "It is renting for you.",
+    "answer": "Es mietet für Sie."
+    },
+    
+    {
+    "id": 52,
+    "question": "It is renting for her.",
+    "answer": "Es mietet für sie."
+    },
+    
+    {
+    "id": 53,
+    "question": "It is renting for him.",
+    "answer": "Es mietet für ihn."
+    },
+    
+    {
+    "id": 54,
+    "question": "It is renting for it.",
+    "answer": "Es mietet für sich selbst."
+    },
+    
+    {
+    "id": 55,
+    "question": "It is renting for them.",
+    "answer": "Es mietet für sie."
+    },
+    
+    {
+    "id": 56,
+    "question": "She is renting for you.",
+    "answer": "Sie mietet für Sie."
+    },
+    
+    {
+    "id": 57,
+    "question": "She is renting for her.",
+    "answer": "Sie mietet für sich selbst."
+    },
+    
+    {
+    "id": 58,
+    "question": "She is renting for him.",
+    "answer": "Sie mietet für ihn."
+    },
+    
+    {
+    "id": 59,
+    "question": "She is renting for it.",
+    "answer": "Sie mietet es."
+    },
+    
+    {
+    "id": 60,
+    "question": "She is renting for them.",
+    "answer": "Sie mietet für sie."
+    },
+    
+    {
+    "id": 61,
+    "question": "We are renting for you.",
+    "answer": "Wir mieten für Sie."
+    },
+    
+    {
+    "id": 62,
+    "question": "We are renting for her.",
+    "answer": "Wir mieten für sie."
+    },
+    
+    {
+    "id": 63,
+    "question": "We are renting for him.",
+    "answer": "Wir mieten für ihn."
+    },
+    
+    {
+    "id": 64,
+    "question": "We are renting for it.",
+    "answer": "Wir mieten es."
+    },
+    
+    {
+    "id": 65,
+    "question": "We are renting for them.",
+    "answer": "Wir mieten für sie."
+    },
+    
+    {
+    "id": 66,
+    "question": "They are renting for you.",
+    "answer": "Sie mieten für Sie."
+    },
+    
+    {
+    "id": 67,
+    "question": "They are renting for her.",
+    "answer": "Sie mieten für sie."
+    },
+    
+    {
+    "id": 68,
+    "question": "They are renting for him.",
+    "answer": "Sie mieten für ihn."
+    },
+    
+    {
+    "id": 69,
+    "question": "They are renting for it.",
+    "answer": "Sie mieten für es."
+    },
+    
+    {
+    "id": 70,
+    "question": "They are renting for them.",
+    "answer": "Sie mieten für sie."
+    }
+    
+ 
+]
+  

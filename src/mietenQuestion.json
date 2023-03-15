@@ -1,0 +1,352 @@
+[
+    {
+        "id":1,
+        "question":"Am I renting from you?",
+        "answer":"Miete ich von dir?"
+        },
+        {
+        "id":2,
+        "question":"Am I renting from her?",
+        "answer":"Miete ich von ihr?"
+        },
+        {
+        "id":3,
+        "question":"Am I renting from him?",
+        "answer":"Miete ich von ihm?"
+        },
+        {
+        "id":4,
+        "question":"Am I renting it?",
+        "answer":"Miete ich es?"
+        },
+        {
+        "id":5,
+        "question":"Am I renting from them?",
+        "answer":"Miete ich von ihnen?"
+        },
+        {
+        "id":6,
+        "question":"Am I renting from you guys?",
+        "answer":"Miete ich von euch?"
+        },
+        {
+        "id":7,
+        "question":"Are you renting from her?",
+        "answer":"Mietest du von ihr?"
+        },
+        {
+        "id":8,
+        "question":"Are you renting from him?",
+        "answer":"Mietest du von ihm?"
+        },
+        {
+        "id":9,
+        "question":"Are you renting it?",
+        "answer":"Mietest du es?"
+        },
+        {
+        "id":10,
+        "question":"Are you renting from them?",
+        "answer":"Mietet ihr von ihnen?"
+        },
+        {
+        "id":11,
+        "question":"Is he renting from you?",
+        "answer":"Mietet er von dir?"
+        },
+        {
+        "id":12,
+        "question":"Is he renting from her?",
+        "answer":"Mietet er von ihr?"
+        },
+        {
+        "id":13,
+        "question":"Is he renting from him?",
+        "answer":"Mietet er von ihm?"
+        },
+        {
+        "id":14,
+        "question":"Is he renting it?",
+        "answer":"Mietet er es?"
+        },
+        {
+        "id":15,
+        "question":"Is he renting from them?",
+        "answer":"Mietet er von ihnen?"
+        },
+        {
+        "id":16,
+        "question":"Is it renting from you?",
+        "answer":"Mietet es von dir?"
+        },
+        {
+        "id":17,
+        "question":"Is it renting from her?",
+        "answer":"Mietet es von ihr?"
+        },
+        {
+        "id":18,
+        "question":"Is it renting from him?",
+        "answer":"Mietet es von ihm?"
+        },
+        {
+        "id":19,
+        "question":"Is it renting?",
+        "answer":"Wird es vermietet?"
+        },
+        {
+        "id":20,
+        "question":"Is it renting from them?",
+        "answer":"Mietet es von ihnen?"
+        },
+        {
+        "id":21,
+        "question":"Is she renting from you?",
+        "answer":"Mietet sie von dir?"
+        },
+        {
+        "id":22,
+        "question":"Is she renting from her?",
+        "answer":"Mietet sie von ihr?"
+        },
+        {
+        "id":23,
+        "question":"Is she renting from him?",
+        "answer":"Mietet sie von ihm?"
+        },
+        {
+        "id":24,
+        "question":"Is she renting it?",
+        "answer":"Mietet sie es?"
+        },
+        {
+            "id": 25,
+            "question": "Is she renting from them?",
+            "answer": "Mietet sie von ihnen?"
+            },
+            {
+            "id": 26,
+            "question": "Are we renting from you?",
+            "answer": "Mieten wir von dir?"
+            },
+            {
+            "id": 27,
+            "question": "Are we renting from her?",
+            "answer": "Mieten wir von ihr?"
+            },
+            {
+            "id": 28,
+            "question": "Are we renting from him?",
+            "answer": "Mieten wir von ihm?"
+            },
+            {
+            "id": 29,
+            "question": "Are we renting it?",
+            "answer": "Mieten wir es?"
+            },
+            {
+            "id": 30,
+            "question": "Are we renting from them?",
+            "answer": "Mieten wir von ihnen?"
+            },
+            {
+            "id": 31,
+            "question": "Are they renting from you?",
+            "answer": "Mieten sie von dir?"
+            },
+            {
+            "id": 32,
+            "question": "Are they renting from her?",
+            "answer": "Mieten sie von ihr?"
+            },
+            {
+            "id": 33,
+            "question": "Are they renting from him?",
+            "answer": "Mieten sie von ihm?"
+            },
+            {
+            "id": 34,
+            "question": "Are they renting it?",
+            "answer": "Mieten sie es?"
+            },
+            {
+            "id": 35,
+            "question": "Are they renting from them?",
+            "answer": "Mieten sie von ihnen?"
+            },
+            {
+            "id": 36,
+            "question": "Am I renting for you?",
+            "answer": "Miete ich für dich?"
+            },
+            {
+            "id": 37,
+            "question": "Am I renting for her?",
+            "answer": "Miete ich für sie?"
+            },
+            {
+            "id": 38,
+            "question": "Am I renting for him?",
+            "answer": "Miete ich für ihn?"
+            },
+            {
+            "id": 39,
+            "question": "Am I renting for it?",
+            "answer": "Miete ich es?"
+            },
+            {
+            "id": 40,
+            "question": "Am I renting for them?",
+            "answer": "Miete ich für sie?"
+            },
+            {
+            "id": 41,
+            "question": "Am I renting for you guys?",
+            "answer": "Miete ich für euch?"
+            },
+            {
+            "id": 42,
+            "question": "Are you renting for her?",
+            "answer": "Mietest du für sie?"
+            },
+            {
+            "id": 43,
+            "question": "Are you renting for him?",
+            "answer": "Mietest du für ihn?"
+            },
+            {
+            "id": 44,
+            "question": "Are you renting for it?",
+            "answer": "Mietest du es?"
+            },
+            {
+            "id": 45,
+            "question": "Are you renting for them?",
+            "answer": "Mietest du für sie?"
+            },
+            {
+            "id": 46,
+            "question": "Is he renting for you?",
+            "answer": "Mietet er für dich?"
+            },
+            {
+            "id": 47,
+            "question": "Is he renting for her?",
+            "answer": "Mietet er für sie?"
+            },
+            {
+            "id": 48,
+            "question": "Is he renting for him?",
+            "answer": "Mietet er für ihn?"
+            },
+            {
+                "id": 49,
+                "question": "Is he renting for it?",
+                "answer": "Mietet er es?"
+                },
+                {
+                "id": 50,
+                "question": "Is he renting for them?",
+                "answer": "Mietet er für sie?"
+                },
+                {
+                "id": 51,
+                "question": "Is it renting for you?",
+                "answer": "Mietet es für dich?"
+                },
+                {
+                "id": 52,
+                "question": "Is it renting for her?",
+                "answer": "Mietet es für sie?"
+                },
+                {
+                "id": 53,
+                "question": "Is it renting for him?",
+                "answer": "Mietet es für ihn?"
+                },
+                {
+                "id": 54,
+                "question": "Is it renting for it?",
+                "answer": "Mietet es für es?"
+                },
+                {
+                "id": 55,
+                "question": "Is it renting for them?",
+                "answer": "Mietet es für sie?"
+                },
+                {
+                "id": 56,
+                "question": "Is she renting for you?",
+                "answer": "Mietet sie für dich?"
+                },
+                {
+                "id": 57,
+                "question": "Is she renting for her?",
+                "answer": "Mietet sie für sie?"
+                },
+                {
+                "id": 58,
+                "question": "Is she renting for him?",
+                "answer": "Mietet sie für ihn?"
+                },
+                {
+                "id": 59,
+                "question": "Is she renting for it?",
+                "answer": "Mietet sie für es?"
+                },
+                {
+                "id": 60,
+                "question": "Is she renting for them?",
+                "answer": "Mietet sie für sie?"
+                },
+                {
+                "id": 61,
+                "question": "Are we renting for you?",
+                "answer": "Mieten wir für dich?"
+                },
+                {
+                "id": 62,
+                "question": "Are we renting for her?",
+                "answer": "Mieten wir für sie?"
+                },
+                {
+                "id": 63,
+                "question": "Are we renting for him?",
+                "answer": "Mieten wir für ihn?"
+                },
+                {
+                "id": 64,
+                "question": "Are we renting for it?",
+                "answer": "Mieten wir für es?"
+                },
+                {
+                "id": 65,
+                "question": "Are we renting for them?",
+                "answer": "Mieten wir für sie?"
+                },
+                {
+                "id": 66,
+                "question": "Are they renting for you?",
+                "answer": "Mieten sie für dich?"
+                },
+                {
+                "id": 67,
+                "question": "Are they renting for her?",
+                "answer": "Mieten sie für sie?"
+                },
+                {
+                "id": 68,
+                "question": "Are they renting for him?",
+                "answer": "Mieten sie für ihn?"
+                },
+                {
+                "id": 69,
+                "question": "Are they renting for it?",
+                "answer": "Mieten sie für es?"
+                },
+                {
+                "id": 70,
+                "question": "Are they renting for them?",
+                "answer": "Mieten sie für sie?"
+                }
+]
